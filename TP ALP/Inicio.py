@@ -1,6 +1,3 @@
-
-import sqlite3
-
 import sqlite3
 
 conexion = sqlite3.connect(r"C:\Users\Estudiante\Downloads\TP ALP\juegos.db")
